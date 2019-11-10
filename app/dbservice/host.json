@@ -1,0 +1,133 @@
+{
+  "netmask": "255.255.0.0",
+  "selinux": false,
+  "kernel": "Linux",
+  "fqdn": "unassigned-hostname.unassigned-domain",
+  "uptime_seconds": 4692240,
+  "lsbdistdescription": "Ubuntu 16.04.4 LTS",
+  "ipaddress": "172.18.0.1",
+  "rubyplatform": "x86_64-linux-gnu",
+  "id": "philk",
+  "lsbmajdistrelease": "16.04",
+  "path": "/home/philk/src/rest-example/bin:/home/philk/.cargo/bin:/home/philk/bin:/home/philk/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games",
+  "uniqueid": "007f0101",
+  "hardwaremodel": "x86_64",
+  "hostname": "unassigned-hostname",
+  "processors": {
+    "models": [
+      "Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz",
+      "Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz",
+      "Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz",
+      "Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz"
+    ],
+    "count": 4,
+    "physicalcount": 1
+  },
+  "macaddress": "02:42:3e:52:bc:e3",
+  "filesystems": "ext2,ext3,ext4,iso9660,msdos,vfat",
+  "lsbdistrelease": "16.04",
+  "domain": "unassigned-domain",
+  "interfaces": "br_f478d1a5d8cd,docker0,enp0s25,lo,sit0,veth4b9dad9,wlp3s0",
+  "ipaddress_br_f478d1a5d8cd": "172.18.0.1",
+  "macaddress_br_f478d1a5d8cd": "02:42:3e:52:bc:e3",
+  "netmask_br_f478d1a5d8cd": "255.255.0.0",
+  "mtu_br_f478d1a5d8cd": 1500,
+  "ipaddress_docker0": "172.17.0.1",
+  "macaddress_docker0": "02:42:b3:26:dd:a0",
+  "netmask_docker0": "255.255.0.0",
+  "mtu_docker0": 1500,
+  "macaddress_enp0s25": "3c:97:0e:c2:1d:94",
+  "mtu_enp0s25": 1500,
+  "ipaddress_lo": "127.0.0.1",
+  "netmask_lo": "255.0.0.0",
+  "mtu_lo": 65536,
+  "mtu_sit0": 1480,
+  "macaddress_veth4b9dad9": "82:98:e7:7b:80:25",
+  "mtu_veth4b9dad9": 1500,
+  "ipaddress_wlp3s0": "192.168.1.166",
+  "macaddress_wlp3s0": "a4:4e:31:4f:b0:e4",
+  "netmask_wlp3s0": "255.255.255.0",
+  "mtu_wlp3s0": 1500,
+  "memorysize": "3.56 GB",
+  "memoryfree": "800.11 MB",
+  "swapsize": "3.70 GB",
+  "swapfree": "3.36 GB",
+  "swapsize_mb": "3792.00",
+  "swapfree_mb": "3436.32",
+  "memorysize_mb": "3646.66",
+  "memoryfree_mb": "800.11",
+  "ps": "ps -ef",
+  "uptime_days": 54,
+  "kernelversion": "4.19.0",
+  "architecture": "amd64",
+  "operatingsystem": "Ubuntu",
+  "os": {
+    "name": "Ubuntu",
+    "family": "Debian",
+    "release": {
+      "major": "16.04",
+      "full": "16.04"
+    },
+    "lsb": {
+      "distcodename": "xenial",
+      "distid": "Ubuntu",
+      "distdescription": "Ubuntu 16.04.4 LTS",
+      "distrelease": "16.04",
+      "majdistrelease": "16.04"
+    }
+  },
+  "processor0": "Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz",
+  "processor1": "Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz",
+  "processor2": "Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz",
+  "processor3": "Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz",
+  "processorcount": 4,
+  "uptime": "54 days",
+  "facterversion": "2.4.6",
+  "virtual": "physical",
+  "is_virtual": false,
+  "partitions": {
+    "sda2": {
+      "size": "2"
+    },
+    "sda5": {
+      "size": "487395328"
+    },
+    "sda1": {
+      "uuid": "ce8767e2-b0a6-45a2-a7b7-f7ac95b8786c",
+      "size": "997376",
+      "mount": "/boot"
+    }
+  },
+  "lsbdistcodename": "xenial",
+  "dhcp_servers": {
+    "system": "192.168.1.1",
+    "wlp3s0": "192.168.1.1"
+  },
+  "blockdevice_sda_size": 250059350016,
+  "blockdevice_sda_vendor": "ATA",
+  "blockdevice_sda_model": "Samsung SSD 860",
+  "blockdevices": "sda",
+  "rubyversion": "2.3.1",
+  "kernelmajversion": "4.19",
+  "operatingsystemmajrelease": "16.04",
+  "kernelrelease": "4.19.0-rc3+",
+  "gid": "philk",
+  "osfamily": "Debian",
+  "hardwareisa": "x86_64",
+  "uptime_hours": 1303,
+  "system_uptime": {
+    "seconds": 4692240,
+    "hours": 1303,
+    "days": 54,
+    "uptime": "54 days"
+  },
+  "physicalprocessorcount": 1,
+  "rubysitedir": "/usr/local/lib/site_ruby/2.3.0",
+  "network_br_f478d1a5d8cd": "172.18.0.0",
+  "network_docker0": "172.17.0.0",
+  "network_lo": "127.0.0.0",
+  "network_wlp3s0": "192.168.1.0",
+  "operatingsystemrelease": "16.04",
+  "timezone": "GMT",
+  "lsbdistid": "Ubuntu"
+}
